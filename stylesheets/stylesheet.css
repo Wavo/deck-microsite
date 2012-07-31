@@ -537,6 +537,15 @@ html {
   position: relative;
 }
 
+#top-bar .logo {
+  background-image: url('../images/logo.png');
+  margin-top: 6px;
+  height: 27px;
+  width: 131px;
+  background-repeat: no-repeat;
+  margin-left: 10.3%;
+}
+
 #top-bar .cta {
   padding-right: 8.5%;
   float: right;
